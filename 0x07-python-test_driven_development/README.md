@@ -1,7 +1,7 @@
 0x07. Python - Test-driven development 
 ======================================
 
--   by Ezedin
+-   By Ezedin
 
 #### In a nutshell...
 
