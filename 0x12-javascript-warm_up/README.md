@@ -1,7 +1,7 @@
 # 0x12 Javascript - Warm up :roller_coaster:
 
 - by Ezedin
-
+- via alx-ethiopia
 > JavaScript, often abbreviated as JS, is a programming language that conforms to the ECMAScript specification. JavaScript is high-level, often just-in-time compiled, and multi-paradigm. It has curly-bracket syntax, dynamic typing, prototype-based object-orientation, and first-class functions. This project covers the basics using JS
 
 At the end of this project, I was able to solve these questions:
